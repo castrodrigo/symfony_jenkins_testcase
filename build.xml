@@ -140,11 +140,11 @@
         </exec>
     </target>-->
 
-    <target name="parameters" description="Copy parameters">
+    <!--<target name="parameters" description="Copy parameters">
         <exec executable="cp" failonerror="true">
-   	    <!--<arg path="app/config/parameters.ini.template" />
-            <arg path="app/config/parameters.ini" />-->
+   	    <arg path="app/config/parameters.ini.template" />
+            <arg path="app/config/parameters.ini" />
 	    <arg path="app/config/parameters.yml" />
         </exec>
-    </target>
+    </target>-->
 </project>

@@ -1,4 +1,4 @@
-testJkSy2
+Symfony Jenkins TestCase
 =========
 
-Just a test
+Test project to configure PHPUnit and Jenkins with continuous deploy routine.
